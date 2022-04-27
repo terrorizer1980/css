@@ -1,5 +1,23 @@
 # @primer/css
 
+## 20.0.0
+
+### Major Changes
+
+- [#1744](https://github.com/primer/css/pull/1744) [`942f65a4`](https://github.com/primer/css/commit/942f65a45a18b7042ba1ce2703688b62d874cf18) Thanks [@langermank](https://github.com/langermank)! - Global CSS focus styles
+
+* [#1767](https://github.com/primer/css/pull/1767) [`7e01db97`](https://github.com/primer/css/commit/7e01db97f3f2b9d9383f66385ca16f0bdc06abd1) Thanks [@tobiasahlin](https://github.com/tobiasahlin)! - Marketing: Remove unused pullquote selector
+
+- [#1821](https://github.com/primer/css/pull/1821) [`daa2685c`](https://github.com/primer/css/commit/daa2685c596d894b3bae1896bf97c3319cd9816c) Thanks [@jonrohan](https://github.com/jonrohan)! - UnderlineNav `:focus` styles
+  Refactor selected state and spacing
+  Add selected bold state override from github/github
+
+* [#2046](https://github.com/primer/css/pull/2046) [`55e2b069`](https://github.com/primer/css/commit/55e2b069a4cbd225af676bef918bbbe2e6cd73b7) Thanks [@langermank](https://github.com/langermank)! - Global focus style CSS from feature flag (next major)
+
+### Patch Changes
+
+- [#2041](https://github.com/primer/css/pull/2041) [`20550bbf`](https://github.com/primer/css/commit/20550bbfaa236ac197ca58805542eaab0bf38fd4) Thanks [@jonrohan](https://github.com/jonrohan)! - Upgrading to stylelint-config-12.4.0
+
 ## 19.8.2
 
 ### Patch Changes
